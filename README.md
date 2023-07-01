@@ -1,7 +1,7 @@
 # nave_espacial_THREE.js
 
-   instalar THREE.JS: npm install three
-   instalar o servidor parcel: npm install parcel -g
-   instalar o tween: npm i @tweenjs/tween.js@^18
-   rodar o parcel: npx parcel ./src/index.html
-   clique em ctrl+botão esquedo do mouse
+   1. instalar THREE.JS: npm install three
+   2. instalar o servidor parcel: npm install parcel -g
+   3. instalar o tween: npm i @tweenjs/tween.js@^18
+   4. rodar o parcel: npx parcel ./src/index.html
+   5. clique em ctrl+botão esquedo do mouse
